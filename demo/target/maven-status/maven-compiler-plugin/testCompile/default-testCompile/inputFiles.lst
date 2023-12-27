@@ -1,0 +1,10 @@
+/home/loki/LTI/SDET/milestone3/info.cukes/demo/src/test/java/glue/GilletteTests.java
+/home/loki/LTI/SDET/milestone3/info.cukes/demo/src/test/java/utils/EventHandler.java
+/home/loki/LTI/SDET/milestone3/info.cukes/demo/src/test/java/utils/Screenshot.java
+/home/loki/LTI/SDET/milestone3/info.cukes/demo/src/test/java/utils/PropsLoader.java
+/home/loki/LTI/SDET/milestone3/info.cukes/demo/src/test/java/utils/LoggerHandler.java
+/home/loki/LTI/SDET/milestone3/info.cukes/demo/src/test/java/runner/Base.java
+/home/loki/LTI/SDET/milestone3/info.cukes/demo/src/test/java/uistore/Locators.java
+/home/loki/LTI/SDET/milestone3/info.cukes/demo/src/test/java/pages/Homepage.java
+/home/loki/LTI/SDET/milestone3/info.cukes/demo/src/test/java/utils/Reporter.java
+/home/loki/LTI/SDET/milestone3/info.cukes/demo/src/test/java/runner/RunTest.java
